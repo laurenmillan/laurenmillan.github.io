@@ -1,32 +1,12 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+featured_image: /images/demo/home.jpg
 ---
 
-## Features
+![](/images/about-me-img/laurenmillan.jpg)
 
-We've packed Personal full of powerful features to help showcase your work:
+I have successfully completed a comprehensive full-stack software engineering bootcamp through Springboard at the University of Massachusetts Global, involving over 800 hours of intensive curriculum training. For my capstone project, I built a full-stack web application leveraging the Open Library API with Node.js and React.js.
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+In addition to my software engineering training, my academic background includes a Bachelor of Science in Nursing from Capella University and an Associate Degree in Nursing from Denver College of Nursing. These educational experiences have equipped me with a robust understanding of the healthcare industry and skills that have proven invaluable in high-pressure, fast-paced environments. As a registered nurse in various hospital settings, I honed my communication, teamwork, and critical thinking abilities, all of which I have effectively applied in my transition to software engineering.
 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+My technical skill set comprises proficiency in JavaScript and Python, experience with SQL and PSQL databases, and familiarity with tools and frameworks such as RESTful APIs, Insomnia, AJAX, Object-Oriented Programming (OOP), Express.js, HTML, CSS, Git, GitHub, Node.js, Flask, React, Bootstrap, and jQuery. I am also adept at testing methodologies, with practical experience using Jest, SuperTest, Unit Testing, and Jasmine.
