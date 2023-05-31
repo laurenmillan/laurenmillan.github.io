@@ -1,21 +1,21 @@
 ---
 title: 'Jobly'
 subtitle: 'Technologies Used: React.js, Express, Node.js, PSQL'
-description: 
-featured_image: ''
+description: Jobly is a dynamic full-stack job posting web application featuring a comprehensive component hierarchy, functional database, RESTful routing, user authentication, and user profile management.
+featured_image: '/images/jobly/jobly.gif'
 ---
 
 ## Overview
 
-Jobly is a dynamic full-stack web application. The application includes a well-designed component hierarchy, a functional database, an API helper, RESTful routing, authentication, a user profile, and in-progress applications. The application also allows a user to edit their profile, view a list of companies and jobs, and apply to jobs.
+Jobly is a robust full-stack web application that simulates a real-world job posting platform. It boasts a comprehensive component hierarchy and a functional database, underpinned by an API helper and RESTful routing. Additionally, Jobly supports user authentication and profile editing, allowing users to view and apply to a list of companies and job postings.
 
 See the code in my [Github repository](https://github.com/mlauren77/Jobly/tree/deploy)
 
-<!-- ![](/images/novel-pursuit/ezgif.com-video-to-gif.gif) -->
+![](/images/jobly/jobly.gif)
 
 ## Backend Stack
 
-I utilized the following tools for the back-end:
+The back-end was developed using:
 
 * Node.js
 * Express
@@ -23,15 +23,11 @@ I utilized the following tools for the back-end:
 
 ## Frontend Stack
 
-I utilized the following tools and libraries for the front-end:
+The front-end was developed using:
 
 * React.js
 * React-Bootstrap
 * React Router
-* Axios
-* JWT-Decode
-* React Icons
-* Font Awesome
 
 ## Testing
 

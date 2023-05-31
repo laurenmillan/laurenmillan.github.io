@@ -15,7 +15,7 @@ See the back-end code in my [Github repository](https://github.com/mlauren77/nov
 
 ## Backend Stack
 
-I utilized the following tools for the back-end:
+The back-end was developed using:
 
 * Node.js
 * Express
@@ -23,15 +23,13 @@ I utilized the following tools for the back-end:
 
 ## Frontend Stack
 
-I utilized the following tools and libraries for the front-end:
+The front-end was developed using:
 
 * React.js
 * React-Bootstrap
 * React Router
 * Axios
 * JWT-Decode
-* React Icons
-* Font Awesome
 
 ## Testing
 
