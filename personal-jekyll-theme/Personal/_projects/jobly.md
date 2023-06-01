@@ -31,6 +31,4 @@ The front-end was developed using:
 
 ## Testing
 
-Testing for both the front-end and the back-end was carried out using:
-
 * Jest
