@@ -11,7 +11,7 @@ Jobly is a robust full-stack web application that simulates a real-world job pos
 
 See the code in my [Github repository](https://github.com/mlauren77/Jobly/tree/deploy)
 
-![](/images/jobly/jobly.gif)
+![jobly-gif](/images/jobly/jobly.gif){:width="250px"}
 
 ## Backend Stack
 

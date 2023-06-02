@@ -13,8 +13,7 @@ The game was built using pure JavaScript for game logic, HTML for structure and 
 
 See the code in my [Github repository](https://github.com/mlauren77/UMass-Coding-Bootcamp/tree/main/JS-Assignments/connect-four)
 
-![](/images/connect-four/connect-four.gif)
-
+![connect-four-gif](/images/connect-four/connect-four.gif){:width="400px"}
 
 ## Tech Stack
 

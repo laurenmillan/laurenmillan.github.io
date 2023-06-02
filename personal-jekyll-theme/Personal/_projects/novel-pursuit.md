@@ -11,7 +11,7 @@ In this project, I developed a front-end interface that enables users to search 
 
 See the back-end code in my [Github repository](https://github.com/mlauren77/novel-pursuit-backend) and the front-end code [here](https://github.com/mlauren77/novel-pursuit-frontend)
 
-![](/images/novel-pursuit/ezgif.com-video-to-gif.gif)
+![novel-pursuit-gif](/images/novel-pursuit/ezgif.com-video-to-gif.gif){:width="250px"}
 
 ## Backend Stack
 
