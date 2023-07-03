@@ -13,7 +13,7 @@ See the back-end code in my [Github repository](https://github.com/mlauren77/nov
 
 Below is a GIF demonstrating the mobile version of Novel Pursuit's functionality. It illustrates a user journey: searching for a book by title, adding selected books to their Bookmarks, and finally reviewing and managing their Bookmarks, which includes removing a book.
 
-![novel-pursuit-gif](/images/novel-pursuit/ezgif.com-video-to-gif.gif)
+![novel-pursuit-gif](/images/novel-pursuit/ezgif.com-video-to-gif.gif){:width="250px"}
 
 ## Axios
 
