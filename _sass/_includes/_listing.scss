@@ -86,6 +86,8 @@
 
 .post__image {
 	position: absolute;
+	float: left;
+	margin-right: 20px;
 	top: 0;
 	right: 0;
 	bottom: 0;
@@ -115,6 +117,7 @@
 }
 
 .post__content {
+	overflow: auto;
 	position: relative;
 	margin-top: -20px;
 	padding: 20px;
