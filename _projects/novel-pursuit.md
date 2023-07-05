@@ -1,7 +1,7 @@
 ---
 title: 'Novel Pursuit'
 subtitle: 'Technologies Used: React.js, Express, Node.js, PSQL, Axios, Open Library API'
-description: This project involved developing a dynamic full-stack web application, that allows a user to search, save, and manage books of their interest using data from the Open Library API. Additionally, it incororates user authentication, with secure sign-up, login and session maintenance, allowing each user to have a personalized experience.
+description: This project involved developing a dynamic full-stack web application, that allows a user to search, save, and manage books of their interest using data from the Open Library API. Additionally, it incorporates user authentication, with secure sign-up, login and session maintenance, allowing each user to have a personalized experience.
 featured_image: '/images/novel-pursuit/ezgif.com-video-to-gif.gif'
 ---
 
