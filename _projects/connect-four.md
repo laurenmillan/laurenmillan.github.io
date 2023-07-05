@@ -39,7 +39,6 @@ The Connect Four game makes extensive use of Document Object Model (DOM) manipul
 
 6. Game Initialization (makeBoard and makeHtmlBoard calls): At the end of your script, these functions are called to initialize the game. This includes creating the board array and the visual HTML game board.
 
-
 ## Event Handling
 
 1. Top Row Clicks: The handleClick function is an event handler that is triggered when a player clicks on a cell in the top row to drop a coin. The event listener is attached to the top row in the makeHtmlBoard function.
