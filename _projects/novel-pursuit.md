@@ -1,7 +1,7 @@
 ---
 title: 'Novel Pursuit'
 subtitle: 'Technologies Used: React.js, Express, Node.js, PSQL, Axios, Open Library API'
-description: This project involved developing a full-stack web application, that allows a user to search, save, and manage books of their interest using data from the Open Library API. Additionally, it incororates user authentication, with secure sign-up, login and session maintenance, allowing each user to have a personalized experience.
+description: This project involved developing a dynamic full-stack web application, that allows a user to search, save, and manage books of their interest using data from the Open Library API. Additionally, it incororates user authentication, with secure sign-up, login and session maintenance, allowing each user to have a personalized experience.
 featured_image: '/images/novel-pursuit/ezgif.com-video-to-gif.gif'
 ---
 
@@ -63,6 +63,8 @@ The front-end was developed using:
 
 ## Testing
 
-Unit testing for both the front-end and back-end of the application was performed using Jest, a popular JavaScript framework. This included testing individual components on the front-end to ensure they were rendering correctly and behaving as expected, which included the signup form, login form, and tests for adding and removing books from the Bookmark section of the application. Additional testing included testing API endpoints on the back-end to verify data handling and response. The testing process was crucial in identifying and fixing bugs early, and helped improve the overall stability and reliability of the application.
+Unit testing for both the front-end and back-end of the application was performed using Jest, a popular JavaScript framework. This included testing individual components on the front-end to ensure they were rendering correctly and behaving as expected, which included the signup form, login form, and tests for adding and removing books from the Bookmark section of the application. 
+
+Additional testing included testing API endpoints on the back-end to verify data handling and response. The testing process was crucial in identifying and fixing bugs early, and helped improve the overall stability and reliability of the application.
 
 * Jest
