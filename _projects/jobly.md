@@ -1,6 +1,6 @@
 ---
 title: 'Jobly'
-subtitle: 'Technologies Used: React.js, Express, Node.js, PSQL'
+subtitle: 'Technologies Used: React.js, Express, Node.js, PSQL, Axios'
 description: Jobly is a dynamic full-stack job posting web application. It allows users to search and apply for jobs of their interest and features a comprehensive component hierarchy, a functional database, and RESTful routing. Additionally, Jobly supports robust user authentication and profile management.
 featured_image: '/images/jobly/jobly.gif'
 ---
